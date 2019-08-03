@@ -19,6 +19,7 @@ enableMissingTranslationPlaceholders = false
 # weight = 1
 # languageName = "English"
 # 
+# french language business
 # [Languages.fr]
 # title = "Documentation du thème docDock"
 # weight = 2
