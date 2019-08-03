@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://millecodex.github.io/</loc>
+    <loc>https://github.com/millecodex/BCC/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://millecodex.github.io/categories/</loc>
+    <loc>https://github.com/millecodex/BCC/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://millecodex.github.io/tags/</loc>
+    <loc>https://github.com/millecodex/BCC/tags/</loc>
     <priority>0</priority>
   </url>
   
