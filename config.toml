@@ -1,0 +1,8 @@
+baseURL = "https://millecodex.github.io/BCC/"
+languageCode = "en-us"
+title = "Database of Blockchain Consensus Methods"
+theme = "learn"
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
