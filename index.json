@@ -1,10 +1,24 @@
 [
 {
+	"uri": "https://millecodex.github.io/BCC/basics/",
+	"title": "Basics",
+	"tags": [],
+	"description": "",
+	"content": " Chapter X Some Chapter title Lorem Ipsum.\n"
+},
+{
 	"uri": "https://millecodex.github.io/BCC/",
 	"title": "",
 	"tags": [],
 	"description": "",
 	"content": " index file some text: hing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layoutshing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layoutshing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layoutshing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layoutshing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layoutshing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layoutshing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layoutshing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layoutshing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layouts\n"
+},
+{
+	"uri": "https://millecodex.github.io/BCC/basics/about_this_place/",
+	"title": "About this place",
+	"tags": [],
+	"description": "",
+	"content": " here we are in heading 1 file will have its original line endings in your working directory warning: LF will be replaced by CRLF in sitemap.xml. The file will have its original line endings in your working directory warning: LF will be replaced by CRLF in tags/index.xml.\nnow heading 2 The file will have its original line endings in your working directory [gh-pages 766a2eb] Publishing to gh-pages (publish.sh) 6 files changed, 96 insertions(+), 101 deletions(-)\n"
 },
 {
 	"uri": "https://millecodex.github.io/BCC/categories/",
