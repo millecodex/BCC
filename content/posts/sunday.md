@@ -6,3 +6,9 @@ draft: false
 
 Every Sunday, catch it here first.
 ![cat1](/blob/master/static/cat.jpg)
+
+Every Monday, catch up.
+![other](clippy.svg)
+![other](/clippy.svg)
+![other](images/clippy.svg)
+![other](/images/clippy.svg)
