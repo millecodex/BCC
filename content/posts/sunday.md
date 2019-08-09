@@ -5,3 +5,4 @@ draft: false
 ---
 
 Every Sunday, catch it here first.
+![cat1](/static/cat.jpg)

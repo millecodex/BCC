@@ -2,6 +2,9 @@ baseURL = "https://millecodex.github.io/BCC/"
 languageCode = "en-us"
 title = "Database of Blockchain Consensus Methods"
 theme = "learn"
+canonifyURLs = true
+relativeURLs="true"
+
 
 # For search functionality
 [outputs]
