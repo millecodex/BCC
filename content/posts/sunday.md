@@ -5,7 +5,9 @@ draft: false
 ---
 
 Every Sunday, catch it here first.
+![other](/nebula.jpg)
+![other](/road.jpg)
 
 Every Monday, catch up.
-![other](/cat.jpg)
+![other](/img/cat.jpg)
 ![other](/BitcoinNodeDiagramx.png)
