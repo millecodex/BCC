@@ -1,0 +1,64 @@
+[
+{
+	"uri": "https://millecodex.github.io/BCC/basics/",
+	"title": "Basics",
+	"tags": [],
+	"description": "",
+	"content": " Chapter X Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "https://millecodex.github.io/BCC/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": " index file some text: hing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layoutshing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layoutshing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layoutshing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layoutshing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layoutshing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layoutshing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layoutshing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layoutshing for changes in C:\\Users\\Japple\\BCC{archetypes,content,data,layouts\n"
+},
+{
+	"uri": "https://millecodex.github.io/BCC/visual/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://millecodex.github.io/BCC/visual/graphicshome/",
+	"title": "GraphicsHome",
+	"tags": [],
+	"description": "",
+	"content": "List of some of the visual representations I\u0026rsquo;ve created to help with my understanding.\nA nebula A nebula A nebula "
+},
+{
+	"uri": "https://millecodex.github.io/BCC/posts/2019-08-04_bitcoin_system_diagrams/",
+	"title": "Bitcoin System Diagrams",
+	"tags": [],
+	"description": "",
+	"content": "I\u0026rsquo;ve been looking at the idea of using diagrams to explain how bitcoin works. There are many out there but most are overviews of blockchains and when you get specific to do with bitcoin the most common result is the transaction chain found in Satoshi\u0026rsquo;s white paper.\nHere is an attempt at a high level overview. The idea was to follow a transaction from creation, through mining, and landing in the level database .dat that resides on your local node.\nNext up is what happens inside the Update Chain process (a lot). This is where the transactions and blocks are written to disk \u0026ndash; where all the unspent transaction outputs live.\nFuture work will be to highlight the tx path and provide a zoom on all the individual processes; perhaps with links to source code.\n"
+},
+{
+	"uri": "https://millecodex.github.io/BCC/posts/",
+	"title": "Posts",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://millecodex.github.io/BCC/basics/about_this_place/",
+	"title": "About this place",
+	"tags": [],
+	"description": "",
+	"content": " here we are in heading 1 file will have its original line endings in your working directory warning: LF will be replaced by CRLF in sitemap.xml. The file will have its original line endings in your working directory warning: LF will be replaced by CRLF in tags/index.xml.\nnow heading 2 The file will have its original line endings in your working directory [gh-pages 766a2eb] Publishing to gh-pages (publish.sh) 6 files changed, 96 insertions(+), 101 deletions(-)\n"
+},
+{
+	"uri": "https://millecodex.github.io/BCC/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://millecodex.github.io/BCC/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

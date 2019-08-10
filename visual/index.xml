@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database of Blockchain Consensus Methods</title>
+    <link>https://millecodex.github.io/BCC/visual/</link>
+    <description>Recent content on Database of Blockchain Consensus Methods</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Aug 2019 13:21:41 +1200</lastBuildDate>
+    
+	<atom:link href="https://millecodex.github.io/BCC/visual/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GraphicsHome</title>
+      <link>https://millecodex.github.io/BCC/visual/graphicshome/</link>
+      <pubDate>Sun, 04 Aug 2019 13:21:41 +1200</pubDate>
+      
+      <guid>https://millecodex.github.io/BCC/visual/graphicshome/</guid>
+      <description>List of some of the visual representations I&amp;rsquo;ve created to help with my understanding.
+A nebula A nebula A nebula </description>
+    </item>
+    
+  </channel>
+</rss>
